@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/addy-mobile28/precache-manifest.7ab6e886832c7f21a73c177d0e625779.js"
+  "/addy-mobile28/precache-manifest.cf6e6ba6b2e39d97fadae0c54a1f956a.js"
 );
 
 workbox.clientsClaim();
